@@ -7,7 +7,6 @@ from .validaciones import (
     validar_entero_positivo,
     validar_texto,
 )
-print("holamundo")
 class Producto:
     sku: str
     nombre: str
